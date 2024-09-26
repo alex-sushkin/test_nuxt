@@ -1,0 +1,37 @@
+ {
+     "posts": [
+       {
+         "id": "1",
+         "title": "A title",
+         "description": "Long description with a long description with a long description with a long description with a long description",
+         "views": 100,
+         "seo_title": "a-seo-title",
+         "seo_description": "a-seo-description",
+         "seo_keywords": "a-seo-keywords"
+       },
+       {
+         "id": "2",
+         "title": "Another title",
+         "description":  "Long description with a long description with a long description with a long description with a long description",
+         "views": 200,
+         "seo_title": "another-seo-title",
+         "seo_description": "another-seo-description",
+         "seo_keywords": "another-seo-keywords"
+       }
+     ],
+     "comments": [
+       {
+         "id": "1",
+         "text": "a comment about post 1",
+         "postId": "1"
+       },
+       {
+         "id": "2",
+         "text": "another comment about post 1",
+         "postId": "1"
+       }
+     ],
+     "profile": {
+       "name": "typicode"
+     }
+   }
