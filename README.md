@@ -2,8 +2,8 @@
 
 1. Убедитесь, что Node.js и npm установлены.
 2. Склонируйте репозиторий и перейдите в каталог проекта:
-   git clone <URL вашего репозитория>
-   cd my-nuxt-app
+   git clone git@github.com:alex-sushkin/test_nuxt.git
+   cd test_nuxt
 
 3. Установите зависимости:
    npm install
